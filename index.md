@@ -1,4 +1,6 @@
 # Naomi's First CS193 Homework
+
+_Things I like about CS193_
 - How casual the class is
 - How nice the instructors are
 - The fun activities at the beginning of each class
